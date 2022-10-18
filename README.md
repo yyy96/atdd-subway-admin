@@ -1,54 +1,42 @@
+<br>
+
+## 🚉 지하철 노선도 애플리케이션
+<br>
+
 <p align="center">
     <img width="200px;" src="https://raw.githubusercontent.com/woowacourse/atdd-subway-admin-frontend/master/images/main_logo.png"/>
 </p>
-<p align="center">
-  <img alt="npm" src="https://img.shields.io/badge/npm-%3E%3D%205.5.0-blue">
-  <img alt="node" src="https://img.shields.io/badge/node-%3E%3D%209.3.0-blue">
-  <a href="https://edu.nextstep.camp/c/R89PYi5H" alt="nextstep atdd">
-    <img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Fedu.nextstep.camp%2Fc%2FR89PYi5H">
-  </a>
-  <img alt="GitHub" src="https://img.shields.io/github/license/next-step/atdd-subway-admin">
-</p>
+
+### 💻 나의 프로젝트의 목표와 성과
+#### 목표
+- 
+- 인수 테스트 기반 기능 구현
+
+#### 성과
+-  <br>
+  [↳ 인수 테스트에 관한 블로그 포스팅 (@yyy96)]()
 
 <br>
-
-# 지하철 노선도 미션
-[ATDD 강의](https://edu.nextstep.camp/c/R89PYi5H) 실습을 위한 지하철 노선도 애플리케이션
-
 <br>
 
-## 🚀 Getting Started
 
-### Install
-#### npm 설치
-```
-cd frontend
-npm install
-```
-> `frontend` 디렉토리에서 수행해야 합니다.
+### 🚆 지하철 노선도 애플리케이션 기능
+- 지하철 역 관리
+- 지하철 노선 관리 (생성/목록조회/조회/수정/삭제)
+- 지하철 노선에 구간 등록
+- 노선에 등록된 역 목록 조회
+-  지하철 노선에 구간 제외
 
-### Usage
-#### webpack server 구동
-```
-npm run dev
-```
-#### application 구동
-```
-./gradlew bootRun
-```
-<br>
-
-## ✏️ Code Review Process
-[텍스트와 이미지로 살펴보는 온라인 코드 리뷰 과정](https://github.com/next-step/nextstep-docs/tree/master/codereview)
+### [🚆  (branch)]()
 
 <br>
-
-## 🐞 Bug Report
-
-버그를 발견한다면, [Issues](https://github.com/next-step/atdd-subway-admin/issues) 에 등록해주세요 :)
-
 <br>
 
-## 📝 License
+#### 도메인 구성
+![image](https://user-images.githubusercontent.com/65826145/196320235-ca382fd0-3c7c-43b2-a738-b236c9b8d45e.png)
 
-This project is [MIT](https://github.com/next-step/atdd-subway-admin/blob/master/LICENSE.md) licensed.
+<br>
+<br>
+
+### [📝 코드 리뷰 및 리팩터링 과정](https://github.com/next-step/atdd-subway-admin/pulls?q=is%3Apr+is%3Aclosed+author%3Ayyy96)
+![image](https://user-images.githubusercontent.com/65826145/196319713-0938661d-3f15-4a0c-a391-ee74d8cc90a1.png)
